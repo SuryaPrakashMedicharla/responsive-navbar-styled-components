@@ -33,7 +33,7 @@ export const NavbarInnerContainer = styled.div`
 export const NavbarLinkContainer = styled.div`
   display: flex;
   align-items: center;
-  gap: 20px; /* Ensures spacing between links */
+  gap: 20px; 
 `;
 
 export const NavbarLink = styled(Link)`
